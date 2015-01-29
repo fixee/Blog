@@ -1,0 +1,21 @@
+/*
+ *@Author: xiongfei
+ *@Title: The first Blog
+ *@Category: public
+ */
+
+<title>
+The first Blog
+</title>
+<subtitle>
+aaaa
+</subtitle>
+<content>
+bbbbbb
+</content>
+<image>
+cc.img
+</image>
+<code>
+#include<iostream>
+</code>

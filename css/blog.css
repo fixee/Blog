@@ -67,3 +67,19 @@ body {
     max-width: 800px;
 }
 
+.title {
+  text-align: center;
+}
+
+.title span{
+  font-size: 36px;
+}
+
+.subtitle {
+  text-indent: left;
+}
+
+.subtitle span{
+  font-size: 24px;
+}
+
